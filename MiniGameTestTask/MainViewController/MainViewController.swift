@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MainViewController.swift
 //  MiniGameTestTask
 //
 //  Created by Anton Mazur on 22.12.2023.
